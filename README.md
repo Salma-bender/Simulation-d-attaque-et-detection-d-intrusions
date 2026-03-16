@@ -278,36 +278,7 @@ Security Onion a également détecté des tentatives de scan sur des ports de ba
 - Mise en place et utilisation de Security Onion comme plateforme SOC
 - Analyse de trafic réseau et détection d'intrusions
 
----
-
-## 📁 Structure du Projet
-
-```
-📦 stage-icp-cybersecurite/
-├── 📄 README.md
-├── 📂 docs/
-│   ├── rapport_stage.pdf
-│   └── plan_adressage.png
-├── 📂 screenshots/
-│   ├── 01_plan_adressage_IP.png
-│   ├── 02_ping_metasploitable.png
-│   ├── 03_ping_security_onion.png
-│   ├── 04_nmap_scan.png
-│   ├── 05_msfconsole_demarrage.png
-│   ├── 06_search_vsftpd.png
-│   ├── 07_set_rhosts.png
-│   ├── 08_shell_access_ls.png
-│   ├── 09_filehacker_creation.png
-│   ├── 10_permission_denied.png
-│   ├── 11_apres_permissions.png
-│   ├── 12_boucle_infinie.png
-│   ├── 13_security_onion_alerte_nmap.png
-│   └── 14_security_onion_alertes_bdd.png
-└── 📂 configs/
-    └── network_config.md
-```
-
----
+-
 
 ## 👤 Auteur
 
